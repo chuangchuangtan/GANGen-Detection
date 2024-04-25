@@ -13,9 +13,6 @@ GANGen-Detection
 ├── CramerGAN
 │   ├── 0_real
 │   └── 1_fake
-├── GANimation
-│   ├── 0_real
-│   └── 1_fake
 ├── InfoMaxGAN
 │   ├── 0_real
 │   └── 1_fake
@@ -53,7 +50,6 @@ Each folder contains 2k real/fake images. The training set can be found in [CNND
 [AttGAN](https://github.com/elvisyjlin/AttGAN-PyTorch), 
 [BEGAN](https://github.com/hmi88/BEGAN-tensorflow), 
 [CramerGAN](https://github.com/mbinkowski/MMD-GAN), 
-[GANimation](https://github.com/albertpumarola/GANimation), 
 [InfoMaxGAN](https://github.com/kwotsin/mimicry), 
 [MMDGAN](https://github.com/mbinkowski/MMD-GAN), 
 [RelGAN](https://github.com/willylulu/RelGAN), 
